@@ -1,0 +1,2 @@
+management.security.enable=false
+Application.url=http://local
